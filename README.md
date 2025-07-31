@@ -53,6 +53,7 @@ Bash
 ./main 
 
 * Instruções para editar uma imagem:
+Bash
 ./main suaimagem.ppm funcionalidade parametro suaimagemsaida.ppm
 
 * Exemplo:
